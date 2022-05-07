@@ -1,5 +1,3 @@
-# COMP2800_202210_BBY14
-
 #TEAM-BBY-14
 [Basillio Kim], [A01279339], [2A]
 [Jackie Ma], [A00889988], [1D],
